@@ -1,3 +1,4 @@
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Arun Negi</h1>
 <h3 align="center">I am a DSA enthusiast with a passion for sharing my knowledge</h3>
 
@@ -17,7 +18,7 @@
 
 ## Other Profiles
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-negi-483a7a259/)
+[<img src="https://img.shields.io/badge/Leetcode-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-negi-483a7a259/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:reacharunnegi@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/arunnegi-07)
 <!-- [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/saurabhnegi35)
@@ -45,16 +46,15 @@
 <p align="left">
 
 
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhnegi35&theme=radical&hide_border=true&layout=compact)](https://github.com/saurabhnegi35/github-readme-stats)
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunnegi-07&theme=radical&hide_border=true&layout=compact)](https://github.com/arunnegi-07/github-readme-stats)
 <br />
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saurabhnegi35&theme=radical)](https://github.com/saurabhnegi35)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arunnegi-07&theme=radical)](https://github.com/arunnegi-07)
 <br />
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhnegi35&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arunnegi-07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhnegi35&theme=radical&show_icons=true&hide_border=true)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunnegi-07&theme=radical&show_icons=true&hide_border=true)
 <br />
-#
