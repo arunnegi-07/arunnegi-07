@@ -4,7 +4,7 @@
 
 <!-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/saurabhnegi35/Ecommerce_Web_App_React)-->
 
-- 🌱 I’m currently giving my time in field of **Data Science and Machine Learning**
+- 🌱 I’m currently giving my time in field of **Full Stack Web Development**
 
 - 👨‍💻 All of my Contributions are available at [Github](https://github.com/arunnegi-07)
 
