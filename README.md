@@ -39,14 +39,15 @@
  
 <div>
   <h3 align="left">Database:</h3>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  &nbsp &nbsp &nbsp &nbsp 
+   <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="mysql" width="60" height="60"/> </img> &nbsp &nbsp &nbsp &nbsp 
   
 </div> 
 
 <div>
   <h3 align="left">Miscellaneous:</h3>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer">    &nbsp &nbsp &nbsp &nbsp <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
-</div> </p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </img> &nbsp &nbsp &nbsp &nbsp 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="60" height="60"/> </img> 
+</div>
 
 ## 📊 GitHub Stats
 
