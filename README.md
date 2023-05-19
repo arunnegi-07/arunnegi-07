@@ -28,12 +28,18 @@
 ## Languages and Tool
 <div>
   <h3 align="left">Programming Languages:</h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> &nbsp &nbsp &nbsp &nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="60" height="60"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> &nbsp &nbsp &nbsp &nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language" width="60" height="60"/> </img> &nbsp &nbsp &nbsp &nbsp 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="60" height="60"/> </img> &nbsp &nbsp &nbsp &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="60" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="60"/> </a>  &nbsp &nbsp &nbsp &nbsp
+</div>
  
 <div>
   <h3 align="left">Database:</h3>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  &nbsp &nbsp &nbsp &nbsp 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  &nbsp &nbsp &nbsp &nbsp 
   
 </div> 
 
