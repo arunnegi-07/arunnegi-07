@@ -39,7 +39,7 @@
 
 <div>
   <h3 align="left">Database:</h3>
-   <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="mysql" width="60" height="60"/> </img> &nbsp &nbsp &nbsp &nbsp 
+   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="60"/> </img> &nbsp &nbsp &nbsp &nbsp
   
 </div> 
 
