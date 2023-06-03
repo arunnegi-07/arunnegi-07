@@ -18,8 +18,8 @@
 
 ## Other Profiles
 
-[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/arunnegi_07/)
 [<img src="https://img.shields.io/badge/-GeekForGeeks-2F8D46?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />](https://auth.geeksforgeeks.org/user/reacharunnegi)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/arunnegi_07/)
 
 ## Languages and Tool
 <div>
