@@ -34,6 +34,7 @@
   <h3 align="left">FrontEnd Development:</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="60" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS" width="60" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="60"/> </a>  &nbsp &nbsp &nbsp &nbsp
 </div>
 
